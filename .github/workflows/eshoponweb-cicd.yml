@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-Shah
   LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: YOUR-SUBS-ae6751ce-0bcd-4e81-9569-7c2ce288f4e4
+  SUBSCRIPTION-ID: ae6751ce-0bcd-4e81-9569-7c2ce288f4e4
   WEBAPP-NAME: eshoponweb-webapp-Shah
 
 
